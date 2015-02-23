@@ -21,6 +21,8 @@ With a lot of help, I used:
 
 * RSpec 
 
-* https://drzorders.herokuapp.com/
+* Trello at https://trello.com/b/wdQu4FLF/mihealth
 
-* mockup at https://moqups.com/gurliaccio/p5gfWbv1/p:ada527f9d
+* Heroku at https://drzorders.herokuapp.com/
+
+* Mockup at https://moqups.com/gurliaccio/p5gfWbv1/p:ada527f9d
