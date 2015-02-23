@@ -1,35 +1,32 @@
 == README
 
-Hello, and thanks for stopping by.
+Hello!
 
-Have you ever left your doctor's office remembering too late something you wanted to discuss? 
-Or felt like your doctor was rushed? 
-Or you were underinformed?
+We all know doctors are busier than ever, and that it's our responsibility to take charge of our own health care.
+To this end, I created Doctor Zorders.
 
 The interaction of busy doctors and unprepared patients often results in less than ideal office visits. Doctor Zorders is an app designed to 
 put relevant and reputable health care information in the hands of everyone with an email address. The doctor will even
-send you an email reminder of your recommendations, so you won't forget to discuss them with your doctor.
+send you an email reminder of your recommendations, so you won't forget to discuss them with your doctor. Knowledge is power, and time is money!
 
-Things you may want to cover:
+Enjoy my use of:
 
-* Ruby 4.2.0
+* Ruby/Rails
 
-* System dependencies
+* PostgreSQL
 
-* Configuration
+* HTML5
 
-* Database creation
+* CSS3
 
-* Database initialization
+* Bootstrap
 
-* How to run the test suite
+* Bootswatch
 
-* Services (job queues, cache servers, search engines, etc.)
+* RSpec 
 
-* Deployment instructions
+* Trello at https://trello.com/b/wdQu4FLF/mihealth
 
-* ...
+* Heroku at https://drzorders.herokuapp.com/
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Mockup at https://moqups.com/gurliaccio/p5gfWbv1/p:ada527f9d
