@@ -20,6 +20,8 @@ Things you may want to cover:
 
 * Bootswatch
 
+* RSpec 
+
 * https://drzorders.herokuapp.com/
 
 * mockup at https://moqups.com/gurliaccio/p5gfWbv1/p:ada527f9d
