@@ -1,18 +1,17 @@
 == README
 
-Hello, and thanks for stopping by.
+Hello!
 
-Have you ever left your doctor's office remembering too late something you wanted to discuss? 
-Or felt like your doctor was rushed? 
-Or you were underinformed?
+Have you ever remembered in the elevator leaving your doctor's office something you wanted to discuss? 
+Or felt like your doctor was rushed? Or maybe you could've been better prepared?
 
 The interaction of busy doctors and unprepared patients often results in less than ideal office visits. Doctor Zorders is an app designed to 
 put relevant and reputable health care information in the hands of everyone with an email address. The doctor will even
-send you an email reminder of your recommendations, so you won't forget to discuss them with your doctor.
+send you an email reminder of your recommendations, so you won't forget to discuss them with your doctor. Knowledge is power, and time is money!
 
-Things you may want to cover:
+With a lot of help, I used:
 
-* Ruby 4.2.0
+* Ruby/Rails
 
 * PostgreSQL
 
