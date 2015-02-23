@@ -9,19 +9,19 @@ The interaction of busy doctors and unprepared patients often results in less th
 put relevant and reputable health care information in the hands of everyone with an email address. The doctor will even
 send you an email reminder of your recommendations, so you won't forget to discuss them with your doctor. Knowledge is power, and time is money!
 
-With a lot of help, I used:
+Enjoy my use of:
 
 * Ruby/Rails
 
 * PostgreSQL
 
-* Bootstrap
-
-* Bootswatch
-
 * HTML5
 
 * CSS3
+
+* Bootstrap
+
+* Bootswatch
 
 * RSpec 
 
