@@ -3,7 +3,7 @@
 Hello!
 
 We all know doctors are busier than ever, and that it's our responsibility to take charge of our own health care.
-To this aim, I created Doctor Zorders.
+To this end, I created Doctor Zorders.
 
 The interaction of busy doctors and unprepared patients often results in less than ideal office visits. Doctor Zorders is an app designed to 
 put relevant and reputable health care information in the hands of everyone with an email address. The doctor will even
