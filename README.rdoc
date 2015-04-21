@@ -21,8 +21,6 @@ Enjoy my use of:
 
 * Bootstrap
 
-* Bootswatch
-
 * RSpec 
 
 * Trello at https://trello.com/b/wdQu4FLF/mihealth
